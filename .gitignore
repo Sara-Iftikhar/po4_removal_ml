@@ -1,0 +1,10 @@
+*.idea/
+results/
+__pycache__/
+
+*.png
+*.csv
+
+manuscript/
+build/
+auto_examples/
